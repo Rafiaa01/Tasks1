@@ -10,6 +10,6 @@ def multiply_numbers(a, b):
     return a * b
 
 
-print(greet("Rafia"))
-print(add_numbers(5, 3))
-print(multiply_numbers(4, 2))
+print(greet("everyone"))
+print(add_numbers(9, 3))
+print(multiply_numbers(6, 2))
