@@ -14,7 +14,7 @@ def multiply_numbers(a, b):
     return a * b
 
 
-print(greet("Alice"))
-print(add_numbers(5, 3))
-print(subtract_numbers(10, 4))
-print(multiply_numbers(4, 2))
+print(greet("everyone"))
+print(subtract_numbers(6, 3))
+print(add_numbers(9, 3))
+print(multiply_numbers(6, 2))
